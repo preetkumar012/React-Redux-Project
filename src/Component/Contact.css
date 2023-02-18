@@ -1,0 +1,14 @@
+.row input{
+    margin-top: 2rem;
+    height: 50px;
+   border:2px solid gray;
+    border-radius: 20px;
+
+}
+::placeholder{
+    color:red;
+    font-weight: bold;
+    padding-left: 10px;
+    font-size: 1.2rem;
+}
+
